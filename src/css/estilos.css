@@ -145,6 +145,7 @@ main {
 
 .listagem .pokedev:hover {
     transform: scale(1.05);
+    background-color:#bda0a0;
 }
 
 .listagem .pokedev span {
